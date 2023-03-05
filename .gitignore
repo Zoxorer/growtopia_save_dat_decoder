@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+linguist-detectable=true
+
 
 # Distribution / packaging
 .Python
