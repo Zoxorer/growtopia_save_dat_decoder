@@ -1,5 +1,6 @@
 # Growtopia save.dat file Decoder
 ![python version](https://img.shields.io/badge/Python-3.8-blue) ![stars](https://img.shields.io/github/stars/Zoxorer/growtopia_save_dat_decoder?style=social)
+
 Decode the save.dat file from Growtopia game
 
 ## Installation
